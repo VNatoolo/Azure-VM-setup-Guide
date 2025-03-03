@@ -4,6 +4,10 @@ Steps to Create a Virtual Machine in Azure
 
 Simple Azure Virtual Machine (VM) Setup Guide
 
+This is a video demonstration on how the Azure Virtual Machine was setup
+
+- ### [YouTube:Simple Azure Virtual Machine (VM) Setup Guide](https://youtu.be/Sxq_7v2OIXw)
+  
 ## Step 1: Sign Up for Azure
 - Go to the Azure Portal.
 - Sign up or log in with your Microsoft account.
