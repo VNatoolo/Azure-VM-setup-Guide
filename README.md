@@ -27,7 +27,8 @@ This guide walks you through the process of creating and managing a Windows Virt
 ## Step 2: Create a Virtual Machine
 1. Select Virtual Machine.
 2. Click “Create” - “Azure Virtual Machine”.
-3. <img width="1440" alt="Screen Shot 2025-03-03 at 7 47 54 PM" src="https://github.com/user-attachments/assets/29295bb9-e717-4ef3-9acd-9e537a25bc50" />
+
+   <img width="1440" alt="Screen Shot 2025-03-03 at 7 47 54 PM" src="https://github.com/user-attachments/assets/29295bb9-e717-4ef3-9acd-9e537a25bc50" />
 
 ## Step 3: Configure Basic Settings
 1. VM Name: `windows-vm`
@@ -36,14 +37,20 @@ This guide walks you through the process of creating and managing a Windows Virt
 4. OS: `Windows`
 5. Image: `Windows Server 2022`
 6. Size: `Standard B1s (1 vCPU, 1 GiB memory)`
-7. <img width="1440" alt="Screen Shot 2025-03-03 at 7 48 25 PM" src="https://github.com/user-attachments/assets/395af1f9-ae27-4116-b668-c2dece53d085" />
-8. Username & Password (for login)
+
+    <img width="1440" alt="Screen Shot 2025-03-03 at 7 48 25 PM" src="https://github.com/user-attachments/assets/395af1f9-ae27-4116-b668-c2dece53d085" />
+    
+7. Username & Password (for login)
    - The username and password are used to log in to your Azure Virtual Machine (VM).
    - For Windows VMs, these credentials allow you to connect via Remote Desktop Protocol (RDP).
-9. <img width="1440" alt="Screen Shot 2025-03-03 at 7 48 53 PM" src="https://github.com/user-attachments/assets/75a3d6eb-78aa-4c72-8952-a3582591a603" />
-10. Click **Review + Create** → **Create**.
+   
+   <img width="1440" alt="Screen Shot 2025-03-03 at 7 48 53 PM" src="https://github.com/user-attachments/assets/75a3d6eb-78aa-4c72-8952-a3582591a603" />
+
+   
+8. Click **Review + Create** → **Create**.
     - Ensure that all settings are correct, then click "Create" to deploy. Once the VM is provisioned, access it via RDP (Windows) or SSH (Linux).
-11. <img width="1440" alt="Screen Shot 2025-03-03 at 7 49 29 PM" src="https://github.com/user-attachments/assets/5255b008-5f1b-423a-ba70-a2ee30b82144" />
+   
+    <img width="1440" alt="Screen Shot 2025-03-03 at 7 49 29 PM" src="https://github.com/user-attachments/assets/5255b008-5f1b-423a-ba70-a2ee30b82144" />
 
 ## Step 4: Connect to Your VM
 1. In Azure Portal, go to Virtual Machines.
