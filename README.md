@@ -1,7 +1,7 @@
 # Azure-VM-setup-Guide
 Steps to Create a Virtual Machine in Azure
 
-- This simple guide walks you through creating a Virtual Machine (VM) in Azure step by step. You'll learn how to set up a VM, choose the right settings, configure login details, and manage it efficiently using the Azure Portal. Perfect for beginners looking to quickly deploy and use a VM in the cloud!
+- This simple guide walks you through creating a Windows Virtual Machine (VM) in Azure step by step. You'll learn how to set up a VM, choose the right settings, configure login details, and manage it efficiently using the Azure Portal. Perfect for beginners looking to quickly deploy and use a VM in the cloud!
  
 ## Step 1: Sign Up for Azure
 - Go to the Azure Portal
