@@ -59,12 +59,14 @@ This guide walks you through the process of creating and managing a Windows Virt
 4. OR
 5. Find your VM's public IP address in Azure Portal.
 6. Use Remote desktop to connect with the IP address and username login.
-7. <img width="1440" alt="Screen Shot 2025-03-03 at 7 55 36 PM" src="https://github.com/user-attachments/assets/914c47ba-e7e5-4843-9d56-fb86611b75d6" />
+   
+    <img width="1440" alt="Screen Shot 2025-03-03 at 7 55 36 PM" src="https://github.com/user-attachments/assets/914c47ba-e7e5-4843-9d56-fb86611b75d6" />
 
 ## Step 5: Manage Your VM
 1. You can manage your Azure VM by logging in, starting or stopping it, checking performance, keeping it secure, resizing if needed, and updating regularly. Use the Azure Portal, CLI, or PowerShell.
 2. Start, stop, or delete your VM from the Azure Portal under the Virtual Machines section.
-3. <img width="1440" alt="Screen Shot 2025-03-03 at 7 59 25 PM" src="https://github.com/user-attachments/assets/6c61a589-9682-45f1-bece-a4dea7e7b304" />
+   
+    <img width="1440" alt="Screen Shot 2025-03-03 at 7 59 25 PM" src="https://github.com/user-attachments/assets/6c61a589-9682-45f1-bece-a4dea7e7b304" />
 
 ## Best Practices
 - Use strong passwords or SSH keys.
