@@ -27,8 +27,7 @@ Steps to Create a Virtual Machine in Azure
   - <img width="1440" alt="Screen Shot 2025-03-03 at 7 48 25 PM" src="https://github.com/user-attachments/assets/395af1f9-ae27-4116-b668-c2dece53d085" />
 
 
-
-  - Username & Password (for login)
+- Username & Password (for login)
     
        - The username and password are used to log in to your Azure Virtual Machine (VM).
        - For Windows VMs, these credentials allow you to connect via Remote Desktop Protocol (RDP).
